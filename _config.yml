@@ -13,15 +13,15 @@ owner:
   bio: ""
 
 # Data
-gavatar: http://dreamofbook.qiniudn.com/Az..png
-favicon: img/favicon.png
+#gavatar: http://dreamofbook.qiniudn.com/Az..png
+#favicon: img/favicon.png
 
-douban_username:  
+douban_username: 
 twitter_username: 
-github_username: 
+github_username: shannonz88
 facebook_username: 
-weibo_username:  
-zhihu_username: 
+weibo_username: shenglongzhao
+zhihu_username: Shannon.zhao
 
 # Build settings  
 # use Github Flavored Markdown !important  
