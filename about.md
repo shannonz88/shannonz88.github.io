@@ -7,7 +7,8 @@ header-img: "img/green.jpg"
 
 生不带来任何东西，成长过程中慢慢的积累，有好有坏，都是人生的印记。
 
-# 联系
+### Contact me
 
 - [博客：shannonz88.github.io](http://shannonz88.github.io/)
 
+- Email: shannon.zhaosl@gmail.com
