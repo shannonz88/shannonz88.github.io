@@ -22,6 +22,7 @@ github_username: shannonz88
 facebook_username: 
 weibo_username: shenglongzhao
 zhihu_username: Shannon.zhao
+linkedin_username: shenglong-zhao-120494a8
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -52,9 +53,9 @@ defaults:
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : shannon
+    short_name : Shannon
   disqus :
-      short_name : shannon
+      short_name : Shannon
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
