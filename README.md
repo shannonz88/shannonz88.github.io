@@ -4,6 +4,6 @@
 
 ##成长印记
 
-博客：[shannonz88.github.io](shannonz88.github.io)
+博客：[shannonz88.github.io](https://shannonz88.github.io)
 
 该博客用于记录技术/生活成长过程中的点滴积累。
